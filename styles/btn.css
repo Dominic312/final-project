@@ -1,0 +1,19 @@
+.btn{
+    display:flex;
+    align-items: center;
+    background-color: gray; 
+    color: white;
+    font-size: 1.25em;
+    padding: 10px 25px;
+    border: 1px solid gray;
+    border-radius: 2px;
+    outline: none;
+ }
+
+ .center-btn-wrapper a{
+     text-decoration: none;
+ }
+
+ .center-btn-wrapper{
+     margin:5px;
+ }
