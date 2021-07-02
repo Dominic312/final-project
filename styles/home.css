@@ -10,7 +10,7 @@
 body {
     margin: 0;
     font-family: 'Quicksand', sans-serif;
-    background-color:black;
+    background-color:rgb(29, 28, 28);
 }
 
 .nav-link{
@@ -122,7 +122,7 @@ body {
 }
 
 .right-side p{
-    font-size:1.25rem;
+    font-size:1.5rem;
 }
 
 .blue-text{
